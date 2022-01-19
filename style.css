@@ -8,7 +8,7 @@ html, body {
 body { 
     width: 100vw; 
     height: 100vh;
-    background: url(images/pattern-background-desktop.svg);
+    background: url(pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: 100% 50%;
@@ -35,7 +35,7 @@ body {
   }
 
 .card-top { 
-    background: url(images/illustration-hero.svg);
+    background: url(illustration-hero.svg);
  
     object-fit: cover;
     background-size: 100% 100%;
@@ -93,7 +93,7 @@ body {
     right: 50px; 
 }
 .music-icon { 
-    background: url(images/icon-music.svg);
+    background: url(icon-music.svg);
     background-repeat: no-repeat;
     height: 64px; 
     width: 64px;
